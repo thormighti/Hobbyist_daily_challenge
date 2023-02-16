@@ -1,0 +1,2 @@
+[workspace]
+members = ["hobbyist_lib", "hobbyist_main"]
