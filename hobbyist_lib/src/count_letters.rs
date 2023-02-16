@@ -7,6 +7,8 @@ fn charsum(input: &str) -> usize{
     sum
 }
 
+
+
 #[cfg(test)]
 mod test{
     use super::*;
